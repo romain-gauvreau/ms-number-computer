@@ -1,5 +1,6 @@
 # ms-number-computer
 
+## Rules
 Master branch is protected:
 - Disable push on master
 - Require pull request AND reviews before merging
